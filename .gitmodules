@@ -1,0 +1,9 @@
+[submodule "sdsl-lite-all-in-one"]
+	path = include/sdsl
+	url = git@gitee.com:wym6912/sdsl-lite-all-in-one.git
+[submodule "getopt9"]
+	path = include/getopt9
+	url = git@gitee.com:wym6912/getopt9.git
+[submodule "include/sdsl-lite-all-in-one"]
+	path = include/sdsl
+	url = git@github.com:wym6912/sdsl-lite-all-in-one.git
